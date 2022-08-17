@@ -2,7 +2,7 @@
 
 ## Greetins, ma friend !!!
 
-> This is the RentX API, just read it the bellow commands.
+> This is the RentX API, just read it the bellow command.
 
 > To correctly use the RentX in your emulator, you'll need to run this api by the following command: 
 
