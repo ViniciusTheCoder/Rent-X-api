@@ -1,4 +1,4 @@
-# Rent-X-api
+# RentX-api
 
 ## Greetins, ma friend !!!
 
